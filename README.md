@@ -9,3 +9,5 @@ Main Uploading Screen:
 Database:
 
 ![database](https://user-images.githubusercontent.com/79582395/216681412-108361fd-ba87-47eb-8911-c7bf91aecbf3.jpeg)
+
+Tech Stack Used : EJS,MongoDB, GridFS
